@@ -1,0 +1,23 @@
+body {
+	font-family: 'DM Serif Display', serif;
+	background-color: #222;
+	margin: 0;
+	overflow: hidden;
+	cursor: pointer;
+}
+.container{
+	margin-top: 15px;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+ }
+ .notice{
+	font-size: 15px;
+}
