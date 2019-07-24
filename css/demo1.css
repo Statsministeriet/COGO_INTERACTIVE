@@ -3,7 +3,6 @@ body {
 	background-color: black;
 	margin: 0;
 	overflow: hidden;
-	cursor: pointer;
 }
 .container{
 	margin-top: 15px;
